@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProjectPanchal
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on IT related projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: pxpanchal@gmail.com
 
 <!---
